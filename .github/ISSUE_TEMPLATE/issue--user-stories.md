@@ -1,7 +1,7 @@
 ---
-name: USER STORIES
-about: 'USER STORY: <TITLE>'
-title: ''
+name: 'Issue: User Stories'
+about: User Stories
+title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: 01-turgut
 
